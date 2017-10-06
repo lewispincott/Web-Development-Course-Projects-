@@ -1,0 +1,23 @@
+h1 {
+	/*color: #660487;
+	border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+	color: #1B1BF2;
+	border: 2px solid #45036E;
+}
+li {
+	color: #4B0082;
+}
+h4 {
+	color: #C5C5FA;
+	background: #45036E;
+}
+body {
+	background: pink;
+}
+
+/*	background: url(http://2.bp.blogspot.com/-4p-43c-M4Nc/Uh9QkbclebI/AAAAAAAAD30/rCnHN1PApkc/s640/Background-Grain-Wood.jpg);
+	background-repeat: no-repeat;
+	background-size: cover; */
+}
